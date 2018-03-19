@@ -1,0 +1,23 @@
+{
+  "name": "w2d1-http-requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelornenelson/w2d1-http-requests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelornenelson/w2d1-http-requests/issues"
+  },
+  "homepage": "https://github.com/thelornenelson/w2d1-http-requests#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
